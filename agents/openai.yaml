@@ -1,0 +1,5 @@
+interface:
+  display_name: "Mobile Desktop Preview"
+  short_description: "Send any local UI to a private phone preview"
+  brand_color: "#AD2848"
+  default_prompt: "Use $mobile-desktop-preview to attach this project's UI to my private phone preview and verify it works."

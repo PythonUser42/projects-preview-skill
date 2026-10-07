@@ -1,0 +1,19 @@
+{
+  "name": "mobile-desktop-preview",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "attach": "node scripts/attach.mjs",
+    "test": "node tests/e2e.mjs",
+    "check": "node scripts/check.mjs",
+    "service": "sh scripts/install-macos-service.sh"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}

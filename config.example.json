@@ -1,0 +1,10 @@
+{
+  "name": "My Local App",
+  "target": "http://127.0.0.1:5173",
+  "previewPort": 5180,
+  "desktopWidth": 1440,
+  "desktopHeight": 900,
+  "projectDir": "/absolute/path/to/app",
+  "startCommand": [],
+  "entryPath": "/"
+}
